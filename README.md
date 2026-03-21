@@ -1,6 +1,12 @@
-# 💫 About Me:
-I’m currently working on:<br>Circuit Connect, a logic-based puzzle game in Unity<br><br>I’m looking to collaborate on<br>Open-source Unity tools, stylized 3D environment assets, or creative game jam projects.<br><br>I’m looking for help with<br>Optimizing UX flows and exploring monetization strategies for indie games.<br><br>I’m currently learning<br>Unity shaders and refined my C# code for optimization (for my games).<br><br>Ask me about<br>3D modeling in Blender, Unity optimization questions.<br><br>Fun fact<br>I spend my days building digital worlds in Blender and Unity.
+<div align="center">
 
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=CCFF00&center=true&vCenter=true&width=600&lines=Hey+there%2C+I'm+Ruchak;3D+Designer+%26+Game+Dev;Building+Circuit+Connect;Designing+at+Fourth+Dimension)
+
+<br>
+
+**3D Designer & Game Developer based in Bangalore 🇮🇳**
+
+</div>
 
 ## 🌐 Socials:
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/ruchak_khatri) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ruchakkhatri) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/ruchak_exe) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@ruchakplayz) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rkiri98@gmail.com) 
