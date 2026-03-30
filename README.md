@@ -20,11 +20,11 @@
 </div>
 
 # 📊 GitHub Stats:
-<!---
-![](https://github-readme-stats.vercel.app/api?username=Dreem-R&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
---->
-![](https://nirzak-streak-stats.vercel.app/?user=Dreem-R&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Dreem-R&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=Dreem-R&show_icons=true&theme=tokyonight&count_private=true)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=Dreem-R&theme=tokyonight)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Dreem-R&layout=compact&theme=tokyonight)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Dreem-R&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
