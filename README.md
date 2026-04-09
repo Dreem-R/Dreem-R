@@ -27,7 +27,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Dreem-R&layout=compact&theme=tokyonight)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Dreem-R&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
+![trophy](https://github-profile-trophy-kannan.vercel.app/?username=Dreem-R&theme=darkhub&title=MultiLanguage,Commits,Repositories,Experience)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Dreem-R&icon=0&color=0)](https://visitcount.itsvg.in)
